@@ -3,21 +3,6 @@ import logo from './logo.svg';
 import { connect } from "react-redux";
 import './App.css';
 class App extends Component {
-  // state = {
-  //   age: 21
-  // }
-  // onAgeUp = () => {
-  //   this.setState({
-  //     ...this.state,
-  //     age: ++this.state.age
-  //   })
-  // }
-  // onAgeDown = () => {
-  //   this.setState({
-  //     ...this.state,
-  //     age: --this.state.age
-  //   })
-  // }
   render() {
     return (
       <div className="App">
